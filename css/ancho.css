@@ -1,0 +1,8 @@
+/*
+elem en bloque: div, li, p, ul  
+elem en linea:
+*/
+div {
+    background-color: royalblue;
+    width: fit-content;
+}
